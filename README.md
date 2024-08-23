@@ -4,4 +4,4 @@ maaain 1q
 subqz 1
 
 seub 2
-z
+zdd
