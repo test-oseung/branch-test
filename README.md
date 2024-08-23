@@ -1,6 +1,6 @@
 # branch-test
 
-main 1
-sub 1
+main 1d
+sub d1
 
 sub 2
