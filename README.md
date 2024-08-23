@@ -1,6 +1,7 @@
-# brancqqh-test
+# brzzancqqh-test
 
-main 1q
-subq 1
+maaain 1q
+subqz 1
 
 seub 2
+z
