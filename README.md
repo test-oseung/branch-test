@@ -3,4 +3,4 @@
 main 1q
 subq 1
 
-sub 2
+seub 2
